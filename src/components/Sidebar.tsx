@@ -43,8 +43,7 @@ export function Sidebar() {
   return (
     <aside className="sidebar">
       <div className="sidebar-header">
-        <span className="sidebar-logo">MCP</span>
-        <span className="sidebar-title">Guía</span>
+        <span className="sidebar-title">Guía MCP</span>
       </div>
       <nav className="sidebar-nav">
         {sections.map((section) => (
