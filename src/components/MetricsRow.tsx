@@ -2,7 +2,7 @@ export function MetricsRow() {
   return (
     <div className="metrics-row">
       <div className="metric-card g">
-        <div className="metric-num">14</div>
+        <div className="metric-num">15</div>
         <div className="metric-label">Secciones de contenido</div>
       </div>
       <div className="metric-card p">
